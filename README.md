@@ -1,4 +1,5 @@
 Power BI Data Transformation and Analysis
+
 A comprehensive data visualization project that transforms raw, unorganized Excel data into an interactive business intelligence dashboard. This project demonstrates end-to-end data handling, from ETL (Extract, Transform, Load) processes to advanced DAX modeling.
 
 Features
